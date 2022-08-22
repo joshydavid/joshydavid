@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey, I'm Joshua 👋
 
 <!--
 **joshuadavidang/joshuadavidang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Freshman at Singapore Management University, majoring in Information Systems.
+
+👨🏻‍💻 View my portfolio at https://joshuadavid.dev <br />
+💬 let's connect via https://www.linkedin.com/in/joshuadavidang/ <br />
+📫 alternatively, you can reach me at joshuadavidang@outlook.sg
