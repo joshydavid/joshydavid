@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Freshman at Singapore Management University, majoring in Information Systems.
+#### Undergraduate at Singapore Management University, majoring in Information Systems.
 
+🔥 Currently dabbling with Python / Data Structures & Algorithms <br />
 👨🏻‍💻 View my portfolio at https://joshuadavid.dev <br />
 💬 let's connect via https://www.linkedin.com/in/joshuadavidang/ <br />
 📫 alternatively, you can reach me at joshuadavidang@outlook.sg
