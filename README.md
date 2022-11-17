@@ -2,7 +2,7 @@
 
 #### Undergraduate at Singapore Management University, majoring in Information Systems.
 
-🔥 currently dabbling with Python / iOS app development  <br />
-👨🏻‍💻 view my portfolio at https://joshuadavid.dev <br />
-💬 connect via https://www.linkedin.com/in/joshuadavidang/ <br />
-📫 alternatively, you can reach me at joshuadavidang@outlook.sg
+🔥 Currently dabbling with Python / iOS app development  <br />
+👨🏻‍💻 View my portfolio at https://joshuadavid.dev <br />
+💬 Let's connect via https://www.linkedin.com/in/joshuadavidang/ <br />
+📫 Alternatively, you can reach me at joshuadavidang@outlook.sg
