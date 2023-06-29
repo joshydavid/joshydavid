@@ -1,8 +1,8 @@
-## Hey, I'm Joshua 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey, I'm Joshua
 
-#### Undergraduate at Singapore Management University, majoring in Information Systems
+### Sophomore at Singapore Management University, majoring in Information Systems
 
-🔥 currently dabbling with Python / iOS app development  <br>
+🔥 currently dabbling with Python & Web Application Development <br>
 ✍🏻 proficient in `.js`, `.ts`, `.py`, `.html`, `.css`, `.php` <br>
 👨🏻‍💻 view my portfolio at [https://joshuadavid.dev](https://joshuadavid.dev) <br>
 💬 let's connect at [https://www.linkedin.com/in/joshuadavidang/](https://www.linkedin.com/in/joshuadavidang/) <br>
