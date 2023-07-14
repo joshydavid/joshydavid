@@ -7,6 +7,8 @@
 👨🏻‍💻 view my portfolio at [https://joshuadavid.dev](https://joshuadavid.dev) <br>
 💬 let's connect at [https://www.linkedin.com/in/joshuadavidang/](https://www.linkedin.com/in/joshuadavidang/) <br>
 📫 alternatively, you can reach me at joshuadavidang@outlook.sg
+<br>
+<br>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadavidang&rank_icon=github&show_icons=true)
