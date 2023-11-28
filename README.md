@@ -2,8 +2,8 @@
 
 ### Sophomore at Singapore Management University, majoring in Information Systems.
 
-🚀 currently dabbling with Python & JavaScript <br>
-✍🏻 proficient in `.js`, `.ts`, `.py`, `.html`, `.css` <br>
+🚀 currently dabbling with iOS Development/Swift <br>
+✍🏻 proficient in `.swift`, `.js`, `.ts`, `.py` <br>
 👨🏻‍💻 portfolio - [https://joshuadavid.dev](https://joshuadavid.dev) <br>
 💬 linkedin - [https://www.linkedin.com/in/joshuadavidang/](https://www.linkedin.com/in/joshuadavidang/) <br>
 📫 email - joshuadavidang@outlook.sg
