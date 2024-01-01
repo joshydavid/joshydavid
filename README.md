@@ -1,19 +1,10 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey, I'm Joshua
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joshuadavidang/)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/joshdavidang/)
+<br />
 
-### Sophomore at Singapore Management University, majoring in Information Systems.
+### hey 👋🏻, i'm joshua!
 
-🚀 currently dabbling with iOS Development/Swift <br>
-✍🏻 proficient in `.swift`, `.js`, `.ts`, `.py` <br>
-👨🏻‍💻 portfolio - [https://joshuadavid.dev](https://joshuadavid.dev) <br>
-💬 linkedin - [https://www.linkedin.com/in/joshuadavidang/](https://www.linkedin.com/in/joshuadavidang/) <br>
-📫 email - joshuadavidang@outlook.sg
-<br>
-<br>
-
-## LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=joshdavidang)](https://github.com/KnlnKS/leetcode-stats)
-<br>
-<br>
-
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadavidang&rank_icon=github&show_icons=true)
+🕹️ software engineer intern @ [govtech](https://www.tech.gov.sg)  
+🎓 information systems sophomore @ [smu](https://computing.smu.edu.sg)    
+👨🏻‍💻 portfolio [https://joshuadavid.dev](https://joshuadavid.dev)  
+📫 reach me @ joshuadavidang@outlook.sg
