@@ -7,7 +7,7 @@
 
 🕹️ software engineer intern @ [govtech](https://www.tech.gov.sg)  
 🎓 information systems sophomore @ [smu](https://computing.smu.edu.sg)    
-👷🏻‍♂️ i built with `TypeScript`, `Next.js` & `Python`  
+👷🏻‍♂️ i build with `TypeScript`, `Next.js` & `Python`  
 📫 reach me @ joshuadavidang@outlook.sg
 
 i'm interested in back-end development & all things tech, find out more about me @ https://joshuadavid.dev
