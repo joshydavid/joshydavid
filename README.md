@@ -6,5 +6,8 @@
 ### hey 👋🏻, i'm joshua!
 
 🕹️ software engineer intern @ [govtech](https://www.tech.gov.sg)  
+👷🏻‍♂️ i built with `TypeScript`, `Next.js` & `Python`  
 🎓 information systems sophomore @ [smu](https://computing.smu.edu.sg)    
 📫 reach me @ joshuadavidang@outlook.sg
+
+i'm interested in back-end development & all things tech, find out more about me @ https://joshuadavid.dev
