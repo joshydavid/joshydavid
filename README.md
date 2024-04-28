@@ -10,4 +10,4 @@
 👷🏻‍♂️ i build with `TypeScript`, `Next.js` & `Python`  
 📫 reach me @ joshuadavidang@outlook.sg
 
-i enjoy back-end development, with a strong interest in building and scaling large, complex systems - find out more about me @ https://joshuadavid.dev
+i enjoy back-end development, with a strong interest in building complex and large-scale systems - find out more about me @ https://joshuadavid.dev
