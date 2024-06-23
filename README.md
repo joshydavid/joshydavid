@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://joshuadavid.dev)
 <br />
 
-### hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, i'm joshua!
+### hey 👋🏻, i'm joshua!
 
 ⚡️ software engineer  
 🎓 junior @ [smu](https://computing.smu.edu.sg)    
