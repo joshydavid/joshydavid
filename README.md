@@ -5,7 +5,7 @@
 
 ### hey 👋🏻, i'm joshua!
 
-🚜 software engineer  
+👨🏻‍💻 software engineer  
 🎓 junior @ [smu](https://computing.smu.edu.sg)    
 👷🏻‍♂️ i build with `TypeScript`, `Next.js`, `Express.js`, `Python` & `Java`  
 📫 reach me @ joshuadavidang@outlook.sg
