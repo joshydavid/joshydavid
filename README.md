@@ -7,8 +7,8 @@
 
 👨🏻‍💻 software engineer  
 🎓 junior @ [smu](https://computing.smu.edu.sg)    
-🎨 portfolio https://joshuadavid.dev  
 👷🏻‍♂️ i build with `TypeScript`, `Next.js`, `Express.js`, `Python` & `Java`  
+🎨 portfolio https://joshuadavid.dev  
 📫 reach me @ joshuadavidang@outlook.sg
 
 i enjoy back-end development, with a strong interest in building complex and large-scale systems - feel free to reach out!
