@@ -11,4 +11,4 @@
 🎨 portfolio https://joshuadavid.dev  
 📫 reach me @ joshuadavidang@outlook.sg
 
-i enjoy back-end development, with a strong interest in building complex and large-scale systems - feel free to reach out!
+i enjoy all things software engineering, with a strong interest in building complex and large-scale systems - feel free to reach out!
