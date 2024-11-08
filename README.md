@@ -5,7 +5,7 @@
 
 ### hey 👋🏻, i'm joshua!
 
-I'm currently a junior at Singapore Management University, pursuing a Bachelor's in Information Systems ✏️
+I'm a junior at Singapore Management University, pursuing a Bachelor's in Information Systems ✏️
 
 I'm passionate about all things software engineering, with a strong interest in building complex and large-scale  
 distributed systems ⚙️
