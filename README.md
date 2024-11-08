@@ -10,7 +10,8 @@ I'm currently a junior at Singapore Management University, pursuing a Bachelor's
 I'm passionate about all things software engineering, with a strong interest in building complex and  
 large-scale distributed systems ⚙️
 
-I have experience with full-stack development using a variety of programming languages and frameworks such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` 🔥
+I have experience with full-stack development using a variety of programming languages and frameworks  
+such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` 🔥
 
 I'm currently picking up `Swift` to develop apps for iOS and visionOS  — feel free to reach out!
 
