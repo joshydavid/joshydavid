@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://joshuadavid.dev)
 <br />
 
-### hey 👋🏻, i'm joshua!
+### hey 👋, i'm joshua!
 
 I'm a junior at Singapore Management University, pursuing a Bachelor's in Information Systems ✏️
 
