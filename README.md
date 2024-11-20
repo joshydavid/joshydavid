@@ -12,7 +12,7 @@ I'm passionate about all things software engineering and information security, w
 I have experience with full-stack development using a variety of programming languages and frameworks  
 such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` 🔥
 
-I'm currently diving into secure software architecture and cryptography to deepen my understanding of how to protect systems from potential threats. I'm also picking up Swift to develop apps for iOS and visionOS  — feel free to reach out!
+I am currently diving into secure software architecture and cryptography to deepen my understanding of protecting systems from potential threats. I'm also picking up Swift to develop apps for iOS and visionOS  — feel free to reach out!
 
 🌐 portfolio @ https://joshuadavid.dev  
 📫 contact @ cxang.2022@scis.smu.edu.sg
