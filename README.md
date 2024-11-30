@@ -10,7 +10,7 @@ I'm a junior at Singapore Management University, pursuing a Bachelor's in Inform
 I'm passionate about all things software engineering and information security, with a strong interest in building complex and large-scale distributed systems ⚙️
 
 I have experience with full-stack development using a variety of programming languages and frameworks  
-such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` 🔥
+such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` 👷‍♂️
 
 I am currently diving into secure software architecture and cryptography to deepen my understanding of protecting systems from potential threats. I'm also picking up Swift to develop apps for iOS and visionOS  — feel free to reach out!
 
