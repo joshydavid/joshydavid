@@ -5,7 +5,7 @@
 
 ### Hey 👋,
 
-I'm Joshua, a junior at Singapore Management University, pursuing a Bachelor's in Information Systems ✏️
+I'm Joshua, a junior at Singapore Management University pursuing a Bachelor's in Information Systems ✏️
 
 Passionate about all things software engineering and information security, I'm currently diving into secure software architecture and cryptography to build secure systems ⚙️
 
