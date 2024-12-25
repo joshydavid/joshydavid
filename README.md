@@ -3,16 +3,15 @@
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://joshuadavid.dev)
 <br />
 
-### Hey 👋, I'm Joshua!
+### Hey 👋,
 
-I'm a junior at Singapore Management University, pursuing a Bachelor's in Information Systems ✏️
+I'm Joshua, a junior at Singapore Management University, pursuing a Bachelor's in Information Systems ✏️
 
-I'm passionate about all things software engineering and information security, with a strong interest in building complex and large-scale distributed systems ⚙️
+Passionate about all things software engineering and information security, I'm currently diving into secure software architecture and cryptography to build secure systems ⚙️
 
-I have experience with full-stack development using a variety of programming languages and frameworks  
-such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` 👷‍♂️
+I have experience with full-stack development using a variety of programming languages and frameworks such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` I'm also picking up Swift to develop apps for iOS and visionOS 
 
-I am currently diving into secure software architecture and cryptography to deepen my understanding of protecting systems from potential threats. I'm also picking up Swift to develop apps for iOS and visionOS  — feel free to reach out!
+Outside of work, I enjoy working out, reading and making a perfect cup of coffee ☕
 
 🌐 portfolio @ https://joshuadavid.dev  
 📫 contact @ cxang.2022@scis.smu.edu.sg
