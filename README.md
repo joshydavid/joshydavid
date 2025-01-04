@@ -5,13 +5,13 @@
 
 ### Hey 👋,
 
-I'm Joshua, a junior at Singapore Management University pursuing a Bachelor's in Information Systems ✏️
+I'm Joshua, a junior at Singapore Management University pursuing a Bachelor's in Information Systems.
 
-Passionate about all things software engineering and information security, I'm currently diving into secure software architecture and cryptography to build secure systems ⚙️
+Passionate about all things software engineering and information security, I'm currently diving into secure software architecture and cryptography to build secure systems.
 
 I have experience with full-stack development using a variety of programming languages and frameworks such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` I'm also picking up Swift to develop apps for iOS and visionOS 
 
 Outside of work, I enjoy working out, reading and making a perfect cup of coffee ☕
 
-🌐 portfolio @ https://joshuadavid.dev  
+🌐 portfolio @ [joshuadavid.dev](https://joshuadavid.dev)  
 📫 contact @ cxang.2022@scis.smu.edu.sg
