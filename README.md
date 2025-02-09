@@ -7,7 +7,7 @@
 
 I'm Joshua, a junior at Singapore Management University pursuing a Bachelor's in Information Systems.
 
-Passionate about all things software engineering and information security, I'm currently diving into secure software architecture and cryptography to build secure systems.
+I'm passionate about all things software engineering with a deep interest in building large-scale distributed systems.
 
 I have experience with full-stack development using a variety of programming languages and frameworks such as `TypeScript`, `Java`, `Python`, `React/Next.js`, `Node.js/Express.js` and `Spring Boot` I'm also picking up Swift to develop apps for iOS and visionOS 
 
