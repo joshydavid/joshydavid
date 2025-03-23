@@ -1,1 +1,1 @@
-![Joshuy](https://github.com/user-attachments/assets/b04bcb1e-960e-4b66-8937-c4913ac8aedd)
+![Joshy](https://github.com/user-attachments/assets/5a818d0e-c1f2-499e-862b-48ce34f46705)
