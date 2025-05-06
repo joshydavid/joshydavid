@@ -6,7 +6,7 @@ i'm joshua, currently a final year information systems undergraduate @ [singapor
 - 🇸🇬 previously @ [govtech](https://www.tech.gov.sg), software engineer intern
 - ⚙️ tech stacks - java, python, typescript
 - 📫 reach me @ cxang.2022@scis.smu.edu.sg
-- 🌐 more about me @ [joshuadavid.dev](https://joshydavid.com)
+- 🌐 more about me @ [joshydavid.com](https://joshydavid.com)
 
 ### projects
 - [brew intelligence](https://joshydavid.com), a full-stack LLM-powered app for real-time coffee grind analysis.
