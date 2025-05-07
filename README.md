@@ -9,5 +9,5 @@ i'm joshua, currently a final year information systems undergraduate @ [singapor
 - 🌐 more about me @ [joshydavid.com](https://joshydavid.com)
 
 ### projects
-- [brew intelligence](https://brew.joshydavid.com), a full-stack LLM-powered app for real-time coffee grind analysis.
+- [brew intelligence](https://brew.joshydavid.com), full-stack LLM-powered app for real-time coffee grind analysis.
 - [joshydavid](https://joshydavid.com), minimalist portfolio site.
