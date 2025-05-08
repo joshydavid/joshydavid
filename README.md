@@ -10,4 +10,4 @@ i'm joshua, currently a final year information systems undergraduate @ [singapor
 
 ### projects
 - [brew intelligence](https://brew.joshydavid.com), full-stack AI-powered app for real-time coffee grind analysis.
-- [joshydavid](https://joshydavid.com), minimalist portfolio site.
+- [joshy david](https://joshydavid.com), minimalist portfolio site.
