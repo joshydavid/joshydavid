@@ -2,7 +2,7 @@
 
 ### About
 
-I'm a final year Information Systems Undergraduate at [Singapore Management University](https://computing.smu.edu.sg/bsc-information-systems), with a strong interest in software engineering & building large-scale distributed systems. In my free time, I enjoying learning new technologies and frameworks. I'm actively seeking Early Career, Software Engineer opportunities in 2026.
+I'm a final year Information Systems Undergraduate at [Singapore Management University](https://computing.smu.edu.sg/bsc-information-systems), with a strong interest in software engineering & building large-scale distributed systems. In my free time, I enjoying learning new technologies and frameworks. I'm actively seeking Early Career, Software Engineer opportunities starting in 2026.
 
 ### Technical Skills & Interests
 
