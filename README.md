@@ -2,14 +2,17 @@
 
 ### About
 
-I'm a final year Information Systems Undergraduate at [Singapore Management University](https://computing.smu.edu.sg/bsc-information-systems), with a strong interest in software engineering & building large-scale distributed systems. In my spare time, I enjoying learning new technologies and frameworks.
+I'm a final year Information Systems Undergraduate at [Singapore Management University](https://computing.smu.edu.sg/bsc-information-systems), with a strong interest in software engineering & building large-scale distributed systems. In my free time, I enjoying learning new technologies and frameworks. I'm actively seeking Early Career, Software Engineer opportunities in 2026.
 
 ### Technical Skills & Interests
 
-- Available for Early Career, Software Engineer opportunities (2026) 👨‍💻
-- Previously @ [GovTech](https://tech.gov.sg), Software Engineer Intern 🇸🇬
 - Tech Stack - `.java`, `.py` & `.ts` ⚙️
-- Developing apps for Apple platforms, iOS & watchOS 
+- Developing apps for Apple platforms - iOS & watchOS 
+- Obsessed with dialing in espresso & weekend runs 🏃‍♂️
+
+### Work Experience
+- Software Engineer Intern @ [GovTech](https://tech.gov.sg)
+- Software Engineer Intern @ [Pigeonhole Live](https://pigeonholelive.com)
 
 ### Projects
 - [Brew Intelligence](https://brew.joshydavid.com), full-stack AI-powered app for real-time coffee grind analysis.
