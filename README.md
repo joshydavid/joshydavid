@@ -7,8 +7,8 @@ I'm a final year Information Systems Undergraduate at [Singapore Management Univ
 ### Technical Skills & Interests
 
 - Tech Stack - `.java`, `.py` & `.ts` ⚙️
-- Developing apps for Apple platforms - iOS & watchOS 
-- Obsessed with dialing in espresso & weekend runs 🏃‍♂️
+- Developing apps for Apple platforms - iOS, iPadOS, watchOS 
+- Obsessed with dialing in espresso & long-distance running 🏃‍♂️
 
 ### Work Experience
 - Software Engineer Intern @ [GovTech](https://tech.gov.sg)
