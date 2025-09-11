@@ -1,14 +1,8 @@
 # Joshua David
 
-### About
+### Tech Stack
 
-I am a final year Information Systems Undergraduate at [Singapore Management University](https://computing.smu.edu.sg/bsc-information-systems), with a strong interest in software engineering & building large-scale distributed systems. In my free time, I enjoy learning new technologies and frameworks — mostly out of curiosity and to keep up with the latest industry trends. I am actively seeking Early Career, Software Engineer opportunities starting in 2026!
-
-### Technical Skills & Interests
-
-- Tech Stack - `.java`, `.py` & `.ts` ⚙️
-- Developing apps for Apple platforms - iOS, iPadOS, watchOS 
-- Obsessed with dialing in espresso & long-distance running 🏃‍♂️
+`.java`, `.py` & `.ts`
 
 ### Work Experience
 - Software Engineer Intern @ [GovTech](https://tech.gov.sg)
