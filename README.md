@@ -1,8 +1,8 @@
-# Joshua David
+# 👋 Joshua David
 
 ### Tech Stack
 
-`.java`, `.py` & `.ts`
+`.go`, `.java`, `.py`, `.ts`
 
 ### Work Experience
 - Software Engineer Intern @ [GovTech](https://tech.gov.sg)
