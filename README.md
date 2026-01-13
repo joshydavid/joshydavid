@@ -1,17 +1,13 @@
 # 👋 Joshua
 
-### About
-- 🎓 Final year Information Systems Undergraduate, seeking software engineer fresh graduate roles (2026).
-- 🤖 Strong interest in backend engineering, retrieval-augmented generation (rag), large language models & agentic ai.
-  
 ### Tech Stack
 
 `.go`, `.java`, `.py`, `.ts`
 
 ### Work Experience
-- 🏦 Software Engineer Intern @ [CPF Board](https://www.cpf.gov.sg)
-- 🇸🇬 Software Engineer Intern @ [GovTech](https://tech.gov.sg)
-- 🟠 Software Engineer Intern @ [Pigeonhole Live](https://pigeonholelive.com)
+- 🏦 SWE Intern @ [CPF Board](https://www.cpf.gov.sg)
+- 🇸🇬 SWE Intern @ [GovTech](https://tech.gov.sg)
+- 🟠 SWE Intern @ [Pigeonhole Live](https://pigeonholelive.com)
 
 ### Projects
 - [🧠 Agentic AI Trading Portfolio](https://github.com/SMU-IS/agentic-ai-trading-be), A dynamic & fully autonomous trading portfolio companion designed to navigate the complex digital financial landscape.
