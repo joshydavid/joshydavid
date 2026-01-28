@@ -5,9 +5,9 @@
 `.go`, `.java`, `.py`, `.ts`
 
 ### Work Experience
-- SWE Intern @ [CPF Board](https://www.cpf.gov.sg)
-- SWE Intern @ [GovTech](https://tech.gov.sg)
-- SWE Intern @ [Pigeonhole Live](https://pigeonholelive.com)
+- Software Engineer Intern @ [CPF Board](https://www.cpf.gov.sg)
+- Software Engineer Intern @ [GovTech](https://tech.gov.sg)
+- Software Engineer Intern @ [Pigeonhole Live](https://pigeonholelive.com)
 
 ### Projects
 - [🧠 Agentic AI Trading Portfolio](https://github.com/SMU-IS/agentic-ai-trading-be), a dynamic & fully autonomous trading portfolio companion designed to navigate the complex digital financial landscape.
