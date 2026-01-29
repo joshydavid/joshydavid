@@ -10,7 +10,7 @@
 - Software Engineer Intern @ [Pigeonhole Live](https://pigeonholelive.com)
 
 ### Projects
-- [🧠 Agentic AI Trading Portfolio](https://github.com/SMU-IS/agentic-ai-trading-be), a dynamic & fully autonomous trading portfolio companion designed to navigate the complex digital financial landscape.
+- [🧠 Agent M](https://github.com/SMU-IS/agentic-ai-trading-be), an agentic AI trading portfolio companion designed to navigate the complex digital financial landscape.
 - [☕ Brew Intelligence](https://brew.joshydavid.com), full-stack AI-powered app for real-time coffee grind analysis.
 - [💻 Joshy](https://joshydavid.com), minimalist portfolio site built on Next.js and Amazon Web Services.
 
