@@ -1,13 +1,13 @@
-# ⚡ Joshua
+# 🗳️ Joshua
 
 ### Tech Stack
 
 `.go`, `.java`, `.py`, `.ts`
 
 ### Work Experience
-- Software Engineer Intern @ [CPF Board](https://www.cpf.gov.sg)
-- Software Engineer Intern @ [GovTech](https://tech.gov.sg)
-- Software Engineer Intern @ [Pigeonhole Live](https://pigeonholelive.com)
+- Software Engineer Intern @ CPF Board
+- Software Engineer Intern @ GovTech
+- Software Engineer Intern @ Pigeonhole Live
 
 ### Projects
 - [🧠 Agent M](https://github.com/SMU-IS/agentic-ai-trading-be), an agentic AI trading portfolio companion designed to navigate the complex digital financial landscape.
